@@ -1,7 +1,7 @@
 {
-  "name": "apipnrc",
+  "name": "ApiGb",
   "version": "1.0.0",
-  "description": "api for exposing pnrc data ",
+  "description": "my api ",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -19,6 +19,6 @@
     "express-jwt": "^6.1.0",
     "jwks-rsa": "^2.0.5",
     "mysql": "^2.18.1",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15" 
   }
 }
