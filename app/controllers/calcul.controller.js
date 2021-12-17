@@ -1,48 +1,87 @@
-
+UNIVERSITÀ
+ÉTUDIER
+RECHERCHE
+DÉVELOPPEMENT
+INTERNATIONAL
 var exp= [{
-  "text":"JavaScript Demo: JSON.parse()",
-    "ratio": "1.59",
+  "text":"Foire Aux Questions Étudiants & Personnels",
+    "ratio": "7.59",
     "AA": "pass",
     "AALarge": "pass",
     "AAA": "pass",
     "AAALarge": "pass"
   },{
-  "text":"Exemples",
-    "ratio": "5.59",
+    "text":"Dépistage Covid 19",
+      "ratio": "7.59",
+      "AA": "pass",
+      "AALarge": "pass",
+      "AAA": "pass",
+      "AAALarge": "pass"
+    },{
+      "text":"DÉCOUVRIR",
+        "ratio": "7.59",
+        "AA": "pass",
+        "AALarge": "pass",
+        "AAA": "pass",
+        "AAALarge": "pass"
+      },{
+        "text":"Étudiants internationaux, pour un séjour d’études ou pour apprendre le français, vivez l’expérience de la Corse toute l’année !",
+          "ratio": "7.59",
+          "AA": "pass",
+          "AALarge": "pass",
+          "AAA": "pass",
+          "AAALarge": "pass"
+        },{
+          "text":"L’institut d’études scientifiques de Cargèse,un lieu d’exception pour les rencontres scientifiques.",
+            "ratio": "7.59",
+            "AA": "pass",
+            "AALarge": "pass",
+            "AAA": "pass",
+            "AAALarge": "pass"
+          },{
+  "text":"UNIVERSITÀ",
+    "ratio": "7.59",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },{
+  "text":"ÉTUDIER",
+    "ratio": "6.59",
     "AA": "fail",
     "AALarge": "pass",
     "AAA": "pass",
     "AAALarge": "fail"
   },{
-  "text":"Utiliser le paramètre reviver",
-    "ratio": "2.59",
+  "text":"RECHERCHE",
+    "ratio": "7.59",
     "AA": "pass",
     "AALarge": "fail",
     "AAA": "pass",
     "AAALarge": "fail"
   },{
-    "text":"Utiliser le paramètre reviver",
+    "text":"DÉVELOPPEMENT",
       "ratio": "2.59",
       "AA": "pass",
       "AALarge": "fail",
       "AAA": "pass",
       "AAALarge": "fail"
     },{
-      "text":"Utiliser le paramètre reviver",
-        "ratio": "2.59",
+      "text":"INTERNATIONAL",
+        "ratio": "6.59",
         "AA": "pass",
         "AALarge": "fail",
         "AAA": "pass",
         "AAALarge": "fail"
       },{
-        "text":"Utiliser le paramètre reviver",
+        "text":"EN CE MOMENT",
           "ratio": "2.59",
           "AA": "pass",
           "AALarge": "fail",
           "AAA": "pass",
           "AAALarge": "fail"
         },{
-          "text":"Utiliser le paramètre reviver",
+          "text":"Langouste rouge Palinurus elephas : La plateforme Stella Mare est l’un des trois laboratoires au monde à avoir obtenu des juvéniles",
             "ratio": "2.59",
             "AA": "pass",
             "AALarge": "fail",

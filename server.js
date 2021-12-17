@@ -18,7 +18,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // simple route
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to my api gb." });
+  res.json({ message: "Api de traitement du dom d'une page web" });
 });
 
  

@@ -5,7 +5,7 @@ module.exports = (app) => {
 
   // Retrieve all activite
   router.get("/calcul/url/:url", cal.getObjectInDom);
-
+ 
  
 
   app.use("/api/v1", router);
