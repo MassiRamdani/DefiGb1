@@ -1,2 +1,2 @@
 
-Api : https://good-barber.herokuapp.com/api/v1/calcul
+Api : https://good-barber.herokuapp.com/api/v1/calcul/url/{url}
