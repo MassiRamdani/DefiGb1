@@ -1,8 +1,4 @@
-UNIVERSITÀ
-ÉTUDIER
-RECHERCHE
-DÉVELOPPEMENT
-INTERNATIONAL
+ 
 var exp= [{
   "text":"Foire Aux Questions Étudiants & Personnels",
     "ratio": "7.59",
@@ -39,7 +35,7 @@ var exp= [{
             "AAA": "pass",
             "AAALarge": "pass"
           },{
-  "text":"UNIVERSITÀ",
+  "text":"UNIVERSITa",
     "ratio": "7.59",
     "AA": "pass",
     "AALarge": "pass",
