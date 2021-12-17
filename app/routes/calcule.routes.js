@@ -4,7 +4,7 @@ module.exports = (app) => {
   var router = require("express").Router();
 
   // Retrieve all activite
-  router.get("/calcul", cal.getObjectInDom);
+  router.get("/calcul/url/:url", cal.getObjectInDom);
 
  
 

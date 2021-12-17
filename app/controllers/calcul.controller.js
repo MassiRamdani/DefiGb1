@@ -23,7 +23,7 @@ var exp= [{
 exports.getObjectInDom = (req, res) => {
    
   const dom = require("../../dom.json");
-
+ 
   res.send(exp);
 };
   
