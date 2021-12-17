@@ -5,7 +5,7 @@ const app = express();
 
 
 var corsOptions = {
-  origin: "https://apipnrc.herokuapp.com"
+  origin: "https://good-barber.herokuapp.com"
 };
 
 app.use(cors(corsOptions));
